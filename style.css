@@ -64,6 +64,10 @@ nav button {
     padding: 0 30px;
 }
 
+.hero-buttons > input:focus{
+    color: white;
+}
+
 .hero> :nth-child(1) {
     font-size: 48px;
     font-weight: bold;
@@ -297,4 +301,5 @@ footer a {
     font-size: medium;
     font-weight: bold;
     opacity: 0.5;
+
 }
